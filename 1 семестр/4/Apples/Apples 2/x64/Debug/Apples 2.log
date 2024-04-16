@@ -1,0 +1,5 @@
+﻿  apples2.cpp
+C:\лабы\Белодед\4\Apples\Apples 2\apples2.cpp(8,10): warning C4101: k: неиспользованная локальная переменная
+C:\лабы\Белодед\4\Apples\Apples 2\apples2.cpp(8,13): warning C4101: x: неиспользованная локальная переменная
+C:\лабы\Белодед\4\Apples\Apples 2\apples2.cpp(8,7): warning C4101: n: неиспользованная локальная переменная
+  Apples 2.vcxproj -> C:\лабы\Белодед\4\Apples\x64\Debug\Apples 2.exe

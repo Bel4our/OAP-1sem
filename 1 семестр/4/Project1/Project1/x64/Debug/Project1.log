@@ -1,0 +1,10 @@
+﻿  FileName.cpp
+C:\лабы\Белодед\4\Project1\Project1\FileName.cpp(3,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\лабы\Белодед\4\Project1\Project1\FileName.cpp(7,2): error C2065: cout: необъявленный идентификатор
+C:\лабы\Белодед\4\Project1\Project1\FileName.cpp(7,42): error C2065: cin: необъявленный идентификатор
+C:\лабы\Белодед\4\Project1\Project1\FileName.cpp(8,2): error C2065: cout: необъявленный идентификатор
+C:\лабы\Белодед\4\Project1\Project1\FileName.cpp(9,2): error C2065: cout: необъявленный идентификатор
+C:\лабы\Белодед\4\Project1\Project1\FileName.cpp(10,2): error C2065: cout: необъявленный идентификатор
+C:\лабы\Белодед\4\Project1\Project1\FileName.cpp(11,2): error C2065: cout: необъявленный идентификатор
+C:\лабы\Белодед\4\Project1\Project1\FileName.cpp(12,2): error C2065: cout: необъявленный идентификатор
+C:\лабы\Белодед\4\Project1\Project1\FileName.cpp(13,2): error C2065: cout: необъявленный идентификатор
